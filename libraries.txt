@@ -1,0 +1,5 @@
+Adafruit BME280 Library
+Adafruit Unified Sensor
+Adafruit SSD1306
+Adafruit GFX Library
+ArduinoJson

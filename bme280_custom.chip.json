@@ -1,0 +1,5 @@
+{
+  "name": "BME280 (simulado - BIU)",
+  "author": "Hector Hernandez - BIU CSE6011",
+  "pins": ["VCC", "GND", "SCL", "SDA", "CSB", "SDO"]
+}
