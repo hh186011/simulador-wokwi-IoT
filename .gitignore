@@ -19,3 +19,6 @@ build/
 # Archivos del sistema operativo
 .DS_Store
 Thumbs.db
+
+# Archivos de simulación
+*.vcd
