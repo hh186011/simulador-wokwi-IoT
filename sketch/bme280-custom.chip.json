@@ -1,5 +1,13 @@
 {
-  "name": "BME280 (simulado - BIU)",
-  "author": "Hector Hernandez - BIU CSE6011",
-  "pins": ["VCC", "GND", "SCL", "SDA", "CSB", "SDO"]
+  "name": "bme280-custom",
+  "author": "Héctor Marcelo Hernández Larrañaga",
+  "pins": [
+    "VCC",
+    "GND",
+    "SCL",
+    "SDA",
+    "CSB",
+    "SDO"
+  ],
+  "controls": []
 }
