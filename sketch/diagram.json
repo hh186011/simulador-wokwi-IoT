@@ -11,7 +11,7 @@
       "attrs": {}
     },
     {
-      "type": "chip-bme280_custom",
+      "type": "chip-bme280-custom",
       "id": "bme1",
       "top": -120,
       "left": 0,

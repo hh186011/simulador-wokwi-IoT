@@ -1,0 +1,21 @@
+# Binarios de compilación de Arduino CLI (arduino-cli compile --output-dir build)
+build/
+
+# Binarios de chips personalizados compilados con Wokwi CLI
+*.wasm
+
+# Artefactos de compilación de firmware (por si se generan fuera de build/)
+*.bin
+*.elf
+*.hex
+*.map
+
+# Cache / config local de Wokwi
+.wokwi/
+
+# Configuración de VS Code (si no quieres versionarla)
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
